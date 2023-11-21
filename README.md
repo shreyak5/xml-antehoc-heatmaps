@@ -1,4 +1,4 @@
-# AI51020 - XML Course Project Code
+# AI51020 - XML Course Project
 **Topic: Explaining Image Classification Models using Ante-hoc Heatmaps** 
 
 Submitted by:\
